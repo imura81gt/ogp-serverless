@@ -1,0 +1,5 @@
+apiGatewayRequestTemplate:
+  application/json:
+    body: $input.json('$')
+    url: $input.params().querystring.url
+    queryParams: $input.params().querystring

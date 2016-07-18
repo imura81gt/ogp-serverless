@@ -1,0 +1,6 @@
+{
+  "region": "ap-northeast-1",
+  "resourcesStackName": "serverless-syuymz-dev-r",
+  "iamRoleArnLambda": "arn:aws:iam::781478302902:role/serverless-syuymz-dev-r-IamRoleLambda-7C22FXSAQ3QT",
+  "apiGatewayApi": "serverless-syuymz"
+}
